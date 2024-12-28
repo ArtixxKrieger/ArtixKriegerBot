@@ -1,0 +1,8 @@
+{
+    "scope": "https:\/\/api.paypal.com\/v1\/payments\/.* https:\/\/uri.paypal.com\/services\/disputes\/update-seller openid https:\/\/uri.paypal.com\/services\/disputes\/read-seller https:\/\/uri.paypal.com\/services\/shipping\/trackers\/readwrite https:\/\/uri.paypal.com\/services\/applications\/webhooks https:\/\/uri.paypal.com\/services\/shipping\/trackers\/read",
+    "access_token": "A21AAMffA6Ln8yESAvB2nSVMGrU4bzj9jhZhMDX40YY6PSCFN2jytIVTMYuumpEmCWgxXe1ZSnGJmZ4W8sKQtC8TSwessc2-Q",
+    "token_type": "Bearer",
+    "app_id": "APP-53C277254V219523A",
+    "expires_in": 32400,
+    "nonce": "2024-12-23T15:00:03ZoMrUgVogBQhCS5WeHHEklpFduUHmk22Uge0y6H52QbI"
+}

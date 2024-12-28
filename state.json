@@ -1,0 +1,10 @@
+{
+    "action": "avatar",
+    "8073624512": {
+        "action": "description"
+    },
+    "6743322294": {
+        "action": "add_keys",
+        "key_duration": "3_days"
+    }
+}
